@@ -1,0 +1,494 @@
+job_title,gender,count
+Account Coordinator,Male,2
+Account Executive,Female,245
+Account Executive,Male,224
+Account Executive,Non-Conforming,10
+Account Manager,Female,99
+Account Manager,Male,101
+Account Manager,Non-Conforming,5
+Accountant I,Female,29
+Accountant I,Male,43
+Accountant I,Non-Conforming,3
+Accountant II,Female,44
+Accountant II,Male,36
+Accountant II,Non-Conforming,2
+Accountant III,Female,42
+Accountant III,Male,38
+Accountant III,Non-Conforming,3
+Accountant IV,Female,38
+Accountant IV,Male,45
+Accountant IV,Non-Conforming,3
+Accounting Assistant I,Female,39
+Accounting Assistant I,Male,44
+Accounting Assistant I,Non-Conforming,3
+Accounting Assistant II,Female,33
+Accounting Assistant II,Male,43
+Accounting Assistant II,Non-Conforming,2
+Accounting Assistant III,Female,31
+Accounting Assistant III,Male,33
+Accounting Assistant III,Non-Conforming,3
+Accounting Assistant IV,Female,47
+Accounting Assistant IV,Male,43
+Actuary,Female,11
+Actuary,Male,15
+Administrative Assistant,Female,19
+Administrative Assistant,Male,18
+Administrative Assistant,Non-Conforming,1
+Administrative Assistant I,Female,87
+Administrative Assistant I,Male,102
+Administrative Assistant I,Non-Conforming,3
+Administrative Assistant II,Female,23
+Administrative Assistant II,Male,19
+Administrative Assistant II,Non-Conforming,1
+Administrative Assistant III,Female,9
+Administrative Assistant III,Male,7
+Administrative Assistant IV,Female,2
+Administrative Assistant IV,Male,5
+Administrative Officer,Female,27
+Administrative Officer,Male,28
+Administrative Officer,Non-Conforming,2
+Analog Circuit Design manager,Female,19
+Analog Circuit Design manager,Male,25
+Analog Circuit Design manager,Non-Conforming,1
+Analyst Programmer,Female,167
+Analyst Programmer,Male,170
+Analyst Programmer,Non-Conforming,11
+Assistant Manager,Female,21
+Assistant Manager,Male,21
+Assistant Manager,Non-Conforming,1
+Assistant Professor,Male,1
+Assistant Trainer,Female,81
+Assistant Trainer,Male,89
+Assistant Trainer,Non-Conforming,3
+Associate Professor,Male,1
+Attorney,Female,13
+Attorney,Male,23
+Attorney,Non-Conforming,2
+Automation Specialist I,Female,8
+Automation Specialist I,Male,15
+Automation Specialist I,Non-Conforming,4
+Automation Specialist II,Female,13
+Automation Specialist II,Male,14
+Automation Specialist II,Non-Conforming,1
+Automation Specialist III,Female,7
+Automation Specialist III,Male,5
+Automation Specialist III,Non-Conforming,1
+Automation Specialist IV,Female,12
+Automation Specialist IV,Male,5
+Automation Specialist IV,Non-Conforming,1
+Budget/Accounting Analyst I,Female,77
+Budget/Accounting Analyst I,Male,73
+Budget/Accounting Analyst I,Non-Conforming,2
+Budget/Accounting Analyst II,Female,65
+Budget/Accounting Analyst II,Male,88
+Budget/Accounting Analyst II,Non-Conforming,3
+Budget/Accounting Analyst III,Female,75
+Budget/Accounting Analyst III,Male,76
+Budget/Accounting Analyst III,Non-Conforming,5
+Budget/Accounting Analyst IV,Female,79
+Budget/Accounting Analyst IV,Male,90
+Budget/Accounting Analyst IV,Non-Conforming,5
+Business Analyst,Female,319
+Business Analyst,Male,341
+Business Analyst,Non-Conforming,24
+Business Development Manager,Female,1
+Business Development Manager,Male,4
+Business Systems Development Analyst,Female,150
+Business Systems Development Analyst,Male,165
+Business Systems Development Analyst,Non-Conforming,11
+Chief Design Engineer,Female,42
+Chief Design Engineer,Male,46
+Chief Design Engineer,Non-Conforming,2
+Community Outreach Specialist,Female,17
+Community Outreach Specialist,Male,9
+Community Outreach Specialist,Non-Conforming,1
+Compensation Analyst,Female,13
+Compensation Analyst,Male,16
+Compensation Analyst,Non-Conforming,1
+Computer Systems Analyst I,Female,43
+Computer Systems Analyst I,Male,42
+Computer Systems Analyst I,Non-Conforming,2
+Computer Systems Analyst II,Female,42
+Computer Systems Analyst II,Male,48
+Computer Systems Analyst II,Non-Conforming,1
+Computer Systems Analyst III,Female,31
+Computer Systems Analyst III,Male,36
+Computer Systems Analyst III,Non-Conforming,1
+Computer Systems Analyst IV,Female,30
+Computer Systems Analyst IV,Male,38
+Computer Systems Analyst IV,Non-Conforming,1
+Content Developer,Female,21
+Content Developer,Male,32
+Content Developer II,Female,19
+Content Developer II,Male,27
+Content Developer II,Non-Conforming,5
+Content Developer III,Female,23
+Content Developer III,Male,26
+Content Developer III,Non-Conforming,2
+Cost Accountant,Female,133
+Cost Accountant,Male,147
+Cost Accountant,Non-Conforming,11
+Customer Success Manager,Female,80
+Customer Success Manager,Male,113
+Customer Success Manager,Non-Conforming,7
+Data Coordiator,Female,158
+Data Coordiator,Male,175
+Data Coordiator,Non-Conforming,15
+Data Visualization Specialist,Female,192
+Data Visualization Specialist,Male,230
+Data Visualization Specialist,Non-Conforming,12
+Database Administrator I,Female,34
+Database Administrator I,Male,44
+Database Administrator I,Non-Conforming,3
+Database Administrator II,Female,39
+Database Administrator II,Male,46
+Database Administrator II,Non-Conforming,1
+Database Administrator III,Female,43
+Database Administrator III,Male,35
+Database Administrator III,Non-Conforming,3
+Database Administrator IV,Female,40
+Database Administrator IV,Male,34
+Database Administrator IV,Non-Conforming,2
+Design Engineer,Female,25
+Design Engineer,Male,25
+Desktop Support Technician,Female,126
+Desktop Support Technician,Male,161
+Desktop Support Technician,Non-Conforming,15
+Developer I,Female,46
+Developer I,Male,27
+Developer I,Non-Conforming,4
+Developer II,Female,29
+Developer II,Male,29
+Developer II,Non-Conforming,6
+Developer III,Female,35
+Developer III,Male,45
+Developer III,Non-Conforming,1
+Developer IV,Female,38
+Developer IV,Male,33
+Director of Sales,Female,5
+Director of Sales,Male,3
+Director of Sales,Non-Conforming,1
+Editor,Female,46
+Editor,Male,42
+Electrical Engineer,Female,15
+Electrical Engineer,Male,13
+Electrical Engineer,Non-Conforming,1
+Engineer I,Female,4
+Engineer I,Male,5
+Engineer II,Female,1
+Engineer II,Male,5
+Engineer III,Female,2
+Engineer III,Male,3
+Engineer IV,Male,1
+Executive Assistant,Female,17
+Executive Assistant,Male,20
+Executive Assistant,Non-Conforming,1
+Executive Secretary,Female,1
+Executive Secretary,Male,1
+Financial Advisor,Female,14
+Financial Advisor,Male,11
+Financial Advisor,Non-Conforming,2
+Financial Analyst,Female,34
+Financial Analyst,Male,29
+Financial Analyst,Non-Conforming,2
+General Manager,Female,15
+General Manager,Male,16
+General Manager,Non-Conforming,1
+Graphic Designer,Female,9
+Graphic Designer,Male,3
+Help Desk Operator,Female,48
+Help Desk Operator,Male,37
+Help Desk Operator,Non-Conforming,3
+Help Desk Technician,Female,156
+Help Desk Technician,Male,159
+Help Desk Technician,Non-Conforming,7
+HR Manager,Female,87
+HR Manager,Male,105
+HR Manager,Non-Conforming,1
+Human Resources Analyst,Female,172
+Human Resources Analyst,Male,211
+Human Resources Analyst,Non-Conforming,10
+Human Resources Analyst II,Female,295
+Human Resources Analyst II,Male,284
+Human Resources Analyst II,Non-Conforming,12
+Human Resources Assistant I,Female,4
+Human Resources Assistant I,Male,10
+Human Resources Assistant II,Female,5
+Human Resources Assistant II,Male,5
+Human Resources Assistant III,Female,7
+Human Resources Assistant III,Male,6
+Human Resources Assistant III,Non-Conforming,1
+Human Resources Assistant IV,Female,5
+Human Resources Assistant IV,Male,5
+Human Resources Assistant IV,Non-Conforming,1
+Human Resources Manager,Female,33
+Human Resources Manager,Male,24
+Human Resources Manager,Non-Conforming,1
+Information Systems Manager,Female,16
+Information Systems Manager,Male,17
+Information Systems Manager,Non-Conforming,1
+Internal Auditor,Female,23
+Internal Auditor,Male,27
+Junior Trainer,Female,87
+Junior Trainer,Male,83
+Junior Trainer,Non-Conforming,5
+Legal Assistant,Female,12
+Legal Assistant,Male,6
+Legal Assistant,Non-Conforming,1
+Librarian,Female,8
+Librarian,Male,18
+Librarian,Non-Conforming,1
+Marketing Assistant,Female,4
+Marketing Assistant,Male,4
+Marketing Manager,Female,1
+Mechanical Systems Engineer,Female,17
+Mechanical Systems Engineer,Male,10
+Mechanical Systems Engineer,Non-Conforming,1
+Media Manager I,Female,55
+Media Manager I,Male,67
+Media Manager I,Non-Conforming,2
+Media Manager II,Female,21
+Media Manager II,Male,24
+Media Manager II,Non-Conforming,2
+Office Assistant I,Female,4
+Office Assistant I,Male,3
+Office Assistant II,Non-Conforming,1
+Office Assistant IV,Male,1
+Operator,Female,112
+Operator,Male,90
+Operator,Non-Conforming,8
+Paralegal,Female,36
+Paralegal,Male,26
+Paralegal,Non-Conforming,1
+Payment Adjustment Coordinator,Female,8
+Payment Adjustment Coordinator,Male,15
+Pre-Sales Consultant,Female,91
+Pre-Sales Consultant,Male,113
+Pre-Sales Consultant,Non-Conforming,5
+Product Engineer,Female,25
+Product Engineer,Male,31
+Programmer Analyst I,Female,45
+Programmer Analyst I,Male,37
+Programmer Analyst I,Non-Conforming,4
+Programmer Analyst II,Female,42
+Programmer Analyst II,Male,46
+Programmer Analyst II,Non-Conforming,1
+Programmer Analyst III,Female,36
+Programmer Analyst III,Male,42
+Programmer Analyst IV,Female,31
+Programmer Analyst IV,Male,38
+Programmer Analyst IV,Non-Conforming,3
+Programmer I,Female,38
+Programmer I,Male,40
+Programmer I,Non-Conforming,6
+Programmer II,Female,35
+Programmer II,Male,40
+Programmer II,Non-Conforming,2
+Programmer III,Female,40
+Programmer III,Male,38
+Programmer IV,Female,24
+Programmer IV,Male,36
+Programmer IV,Non-Conforming,1
+Project Manager,Female,131
+Project Manager,Male,184
+Project Manager,Non-Conforming,14
+Quality Control Specialist,Female,72
+Quality Control Specialist,Male,55
+Quality Control Specialist,Non-Conforming,4
+Quality Engineer,Female,25
+Quality Engineer,Male,36
+Recruiter,Female,108
+Recruiter,Male,109
+Recruiter,Non-Conforming,5
+Recruiting Manager,Female,12
+Recruiting Manager,Male,8
+Recruiting Manager,Non-Conforming,2
+Relationshiop Manager,Female,85
+Relationshiop Manager,Male,111
+Relationshiop Manager,Non-Conforming,5
+Research Assistant,Female,13
+Research Assistant,Male,26
+Research Assistant I,Female,239
+Research Assistant I,Male,256
+Research Assistant I,Non-Conforming,12
+Research Assistant II,Female,341
+Research Assistant II,Male,356
+Research Assistant II,Non-Conforming,21
+Research Assistant III,Female,8
+Research Assistant III,Male,10
+Research Assistant IV,Female,2
+Research Assistant IV,Male,3
+Research Assistant IV,Non-Conforming,1
+Research Associate,Female,96
+Research Associate,Male,100
+Research Associate,Non-Conforming,5
+Sales Associate,Female,3
+Sales Associate,Male,3
+Sales Representative,Female,2
+Sales Representative,Male,3
+Senior Attorney,Female,16
+Senior Attorney,Male,21
+Senior Cost Accountant,Female,141
+Senior Cost Accountant,Male,151
+Senior Cost Accountant,Non-Conforming,9
+Senior Developer,Female,177
+Senior Developer,Male,165
+Senior Developer,Non-Conforming,4
+Senior Editor,Female,66
+Senior Editor,Male,71
+Senior Editor,Non-Conforming,1
+Senior Financial Analyst,Female,25
+Senior Financial Analyst,Male,31
+Senior Financial Analyst,Non-Conforming,1
+Senior Quality Engineer,Female,73
+Senior Quality Engineer,Male,73
+Senior Quality Engineer,Non-Conforming,2
+Senior Recruiter,Female,92
+Senior Recruiter,Male,93
+Senior Recruiter,Non-Conforming,8
+Senior Sales Associate,Female,5
+Senior Sales Associate,Male,9
+Senior Trainer,Female,79
+Senior Trainer,Male,92
+Senior Trainer,Non-Conforming,5
+Service Coordinator,Female,153
+Service Coordinator,Male,157
+Service Coordinator,Non-Conforming,3
+Service Manager,Female,157
+Service Manager,Male,156
+Service Manager,Non-Conforming,6
+Service Tech,Female,147
+Service Tech,Male,157
+Service Tech,Non-Conforming,11
+Service Tech II,Female,143
+Service Tech II,Male,164
+Service Tech II,Non-Conforming,8
+Service Tech III,Female,149
+Service Tech III,Male,165
+Service Tech III,Non-Conforming,5
+Software Consultant,Female,142
+Software Consultant,Male,175
+Software Consultant,Non-Conforming,10
+Software Engineer I,Female,182
+Software Engineer I,Male,184
+Software Engineer I,Non-Conforming,12
+Software Engineer II,Female,34
+Software Engineer II,Male,44
+Software Engineer II,Non-Conforming,2
+Software Engineer III,Female,47
+Software Engineer III,Male,49
+Software Engineer III,Non-Conforming,1
+Software Engineer IV,Female,43
+Software Engineer IV,Male,44
+Software Engineer IV,Non-Conforming,1
+Software Test Engineer I,Female,38
+Software Test Engineer I,Male,40
+Software Test Engineer I,Non-Conforming,2
+Software Test Engineer II,Female,30
+Software Test Engineer II,Male,36
+Software Test Engineer II,Non-Conforming,3
+Software Test Engineer III,Female,41
+Software Test Engineer III,Male,40
+Software Test Engineer III,Non-Conforming,1
+Software Test Engineer IV,Female,37
+Software Test Engineer IV,Male,47
+Solutions Engineer,Female,81
+Solutions Engineer,Male,115
+Solutions Engineer,Non-Conforming,8
+Solutions Engineer Manager,Female,93
+Solutions Engineer Manager,Male,109
+Solutions Engineer Manager,Non-Conforming,4
+Staff Accountant I,Female,184
+Staff Accountant I,Male,234
+Staff Accountant I,Non-Conforming,9
+Staff Accountant II,Female,36
+Staff Accountant II,Male,37
+Staff Accountant II,Non-Conforming,4
+Staff Accountant III,Female,36
+Staff Accountant III,Male,46
+Staff Accountant III,Non-Conforming,8
+Staff Accountant IV,Female,55
+Staff Accountant IV,Male,43
+Staff Accountant IV,Non-Conforming,3
+Staff Scientist,Female,17
+Staff Scientist,Male,12
+Staff Scientist,Non-Conforming,2
+Statistician I,Female,6
+Statistician I,Male,6
+Statistician II,Female,8
+Statistician II,Male,3
+Statistician III,Female,4
+Statistician IV,Female,2
+Structural Analysis Engineer,Female,22
+Structural Analysis Engineer,Male,23
+Structural Engineer,Female,126
+Structural Engineer,Male,155
+Structural Engineer,Non-Conforming,12
+Support Staff,Female,40
+Support Staff,Male,49
+Support Staff,Non-Conforming,5
+Support Staff II,Female,24
+Support Staff II,Male,32
+Support Staff II,Non-Conforming,2
+Support Staff III,Female,7
+Support Staff III,Male,12
+Systems Administrator I,Female,155
+Systems Administrator I,Male,196
+Systems Administrator I,Non-Conforming,8
+Systems Administrator II,Female,32
+Systems Administrator II,Male,32
+Systems Administrator II,Non-Conforming,2
+Systems Administrator III,Female,33
+Systems Administrator III,Male,47
+Systems Administrator III,Non-Conforming,1
+Systems Administrator IV,Female,32
+Systems Administrator IV,Male,48
+Systems Administrator IV,Non-Conforming,4
+Tax Accountant,Female,123
+Tax Accountant,Male,166
+Tax Accountant,Non-Conforming,5
+Trainer I,Female,89
+Trainer I,Male,71
+Trainer I,Non-Conforming,11
+Trainer II,Female,86
+Trainer II,Male,86
+Trainer II,Non-Conforming,3
+Trainer III,Female,77
+Trainer III,Male,95
+Trainer III,Non-Conforming,1
+Training Manager,Female,86
+Training Manager,Male,86
+Training Manager,Non-Conforming,5
+VP Accounting,Female,35
+VP Accounting,Male,40
+VP Accounting,Non-Conforming,1
+VP Marketing,Female,15
+VP Marketing,Male,27
+VP of Training and Development,Male,1
+VP Product Management,Female,18
+VP Product Management,Male,20
+VP Product Management,Non-Conforming,1
+VP Quality Control,Female,21
+VP Quality Control,Male,20
+VP Quality Control,Non-Conforming,2
+VP Sales,Female,4
+VP Sales,Non-Conforming,1
+Web Designer I,Female,12
+Web Designer I,Male,22
+Web Designer II,Male,3
+Web Designer II,Non-Conforming,1
+Web Designer III,Female,6
+Web Designer III,Male,7
+Web Designer IV,Female,2
+Web Designer IV,Male,4
+Web Developer I,Female,43
+Web Developer I,Male,48
+Web Developer I,Non-Conforming,4
+Web Developer II,Female,35
+Web Developer II,Male,35
+Web Developer II,Non-Conforming,4
+Web Developer III,Female,29
+Web Developer III,Male,39
+Web Developer III,Non-Conforming,1
+Web Developer IV,Female,31
+Web Developer IV,Male,35
